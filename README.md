@@ -1,7 +1,7 @@
 👋 **Hi there! I'm Amal Uday Pillai**
 
 🔍 **About Me**:  
-I am a dedicated and detail-oriented Data Analyst with a passion for leveraging data to drive impactful insights and solutions. With a Bachelor's degree in Computer Science and hands-on experience in Python and C, I have honed my skills in various data analysis and machine learning projects.
+I am a dedicated and detail-oriented Data Analyst with a passion for leveraging data to drive impactful insights and solutions. With a Bachelor's degree in Computer Science, I have honed my skills in various data analysis and machine learning projects.
 
 🚀 **Projects**:
 - **HR Data Analysis**: Developed insightful visualizations and predictive models to enhance HR decision-making.
