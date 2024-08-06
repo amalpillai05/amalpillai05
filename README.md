@@ -14,7 +14,7 @@ I am a dedicated and detail-oriented Data Analyst with a passion for leveraging 
 - **Data Science Intern at Oasis Infobyte**: Worked on multiple projects, including Iris flower classification, unemployment rate analysis, and car price prediction.
 
 🎓 **Education**:
-- Bachelor of Science in Computer Science with 8.55 CGPA.
+- Bachelor of Science in Computer Science with 8.55 CGPA from Pune University.
 
 📜 **Certifications**:
 - Certified in Python for Data Science from IIT Madras
